@@ -55,10 +55,3 @@ This project improved my skills in:
 * Dashboard Design
 * Business Storytelling
 * Marketing Analytics
-
-## 📂 Files Included
-
-* Power BI Dashboard (.pbix)
-* Dataset (.csv)
-* Dashboard Screenshots
-* README File
